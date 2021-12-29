@@ -6,4 +6,4 @@ This is the source code for the lambda function, that serves as the backend for 
 The full explanation for this code is given in my [medium blog article](https://vishakhavel.medium.com/aws-lambda-writing-slick-seamless-and-scalable-software-fc12c95da474)
 
 
-
+I've also included the postman collection file for all the APIs
